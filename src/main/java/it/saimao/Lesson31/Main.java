@@ -1,7 +1,6 @@
 package it.saimao.Lesson31;
 // package -> folder, directory
 
-import it.saimao.Nrc;
 
 public class Main {
     public static void main(String[] args) {
